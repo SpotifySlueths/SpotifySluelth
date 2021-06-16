@@ -1,1 +1,1 @@
-# -App-Name-Here-
+# App-Name-Here
