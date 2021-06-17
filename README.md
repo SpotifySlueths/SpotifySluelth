@@ -7,3 +7,5 @@
 [Weekly Checklist](https://www.notion.so/8938beec5d104ae580ce1717d3b52d02?v=870c5e989132484f95ff13a0e3d17182)
 
 [Trello Board](https://trello.com/b/FmiRxSa9/spotifysleuths)
+
+[Data](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=tracks.csv)
