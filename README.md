@@ -1,4 +1,4 @@
-# App-Name-Here
+# Spotify Slueth
 
 [App Overview](https://www.notion.so/Spotify-Song-Suggester-ef588b834e994ea691972e734c682c96)
 
